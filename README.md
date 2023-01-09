@@ -1,6 +1,5 @@
-# Project Title:
-
-TELECOM-CHURN-ANALYSIS
+# Project Title:  **TELECOM-CHURN-ANALYSIS**
+ 
 # Problem Statement: 
 
 Dataset is provided by Orange S.A., formerly France Telecom S.A., is a French multinational telecommunications corporation. The Orange Telecom's churn dataset consists of cleaned customer activity data (features) along with a churn label specifying whether a customer canceled the subscription.
